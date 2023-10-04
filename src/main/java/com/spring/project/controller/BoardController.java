@@ -32,4 +32,5 @@ public class BoardController {
     }
     
 //    젠킨스 테스트용 주석
+//    테스트 한 번 더!
 }
