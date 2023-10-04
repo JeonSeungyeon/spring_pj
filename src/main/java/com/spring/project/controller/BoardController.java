@@ -30,4 +30,6 @@ public class BoardController {
 
         return "main/board";
     }
+    
+//    젠킨스 테스트용 주석
 }
